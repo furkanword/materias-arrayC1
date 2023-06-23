@@ -1,0 +1,15 @@
+/home/apolM01-043/netCore/materias-arrayC/bin/Debug/net7.0/materias-arrayC
+/home/apolM01-043/netCore/materias-arrayC/bin/Debug/net7.0/materias-arrayC.deps.json
+/home/apolM01-043/netCore/materias-arrayC/bin/Debug/net7.0/materias-arrayC.runtimeconfig.json
+/home/apolM01-043/netCore/materias-arrayC/bin/Debug/net7.0/materias-arrayC.dll
+/home/apolM01-043/netCore/materias-arrayC/bin/Debug/net7.0/materias-arrayC.pdb
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.csproj.AssemblyReference.cache
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.AssemblyInfoInputs.cache
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.AssemblyInfo.cs
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.csproj.CoreCompileInputs.cache
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.dll
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/refint/materias-arrayC.dll
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.pdb
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/materias-arrayC.genruntimeconfig.cache
+/home/apolM01-043/netCore/materias-arrayC/obj/Debug/net7.0/ref/materias-arrayC.dll
